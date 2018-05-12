@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1959
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Richardson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13884#The-History-of-Sir-Charles-Grandison-Volume-4--of-7-
 gutenberg_issued: '2004-10-27'
 gutenberg_type: Text
 identifiers:

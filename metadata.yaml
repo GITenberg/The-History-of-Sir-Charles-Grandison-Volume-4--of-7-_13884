@@ -1,0 +1,28 @@
+_repo: The-History-of-Sir-Charles-Grandison-Volume-4--of-7-_13884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richardson, Samuel
+    birthdate: 1689
+    deathdate: 1761
+    gutenberg_agent_id: '1959'
+    url: http://www.gutenberg.org/2009/agents/1959
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Richardson
+description: ''
+gutenberg_issued: '2004-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epistolary fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 18th century -- Fiction'
+title: The History of Sir Charles Grandison, Volume 4 (of 7)
+url: http://www.gutenberg.org/ebooks/13884
